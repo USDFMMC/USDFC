@@ -6,8 +6,8 @@ USDFG is a gaming challenge token built on Solana that rewards both casual and c
 - **Total Supply:** 21,000,000 USDFG
 - **Token Address:** GfPcMytMi3MLLEnJTNcFovAS93wKxdZKy1unKhcB17SK
 - **Website:** [https://usdfcoin.fun](https://usdfcoin.fun)
-- **Twitter:** [@USDFMMC](https://twitter.com/USDFGAMING)
-- **Telegram:** [@USDFMC](https://t.me/USDFGAMING)
+- **Twitter:** [@USDFGAMING](https://twitter.com/USDFGAMING)
+- **Telegram:** [@USDFGAMING](https://t.me/USDFGAMING)
 
 ## Future Development
 Smart contract integration for gaming challenges and automated rewards coming soon.
